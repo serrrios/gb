@@ -1,3 +1,4 @@
+#1
 peremennaya_1 = 1
 peremennaya_2 = 2
 print(f"peremnnaya_1: {peremennaya_1}")
