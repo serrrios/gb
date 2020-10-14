@@ -12,6 +12,5 @@ print(int_func("testy test"))
 '''Why not this????:
 def int_func(word):
     print(word.title())
-    return
 int_func("testy test")
 '''
